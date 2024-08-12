@@ -29,4 +29,4 @@ in reverse.
 # Building
 Grab the source and you can build the tool using Pelles C for windows. just open the gba2bmp.ppj file within and build gba2bmp.exe :)
 
-All credit to Stickteo for making this. I am just finishing a fan translation and found his tool but foudn it had no build or instructions.
+All credit to Stickteo for making this. I am just finishing a fan translation and found his tool but found it had no build or instructions.
